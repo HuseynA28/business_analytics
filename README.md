@@ -7,12 +7,12 @@ When they start to buy
 How much money each customer brings
 When they pay off  
 
-# Step 1. Download the data and prepare it for analysis
+Step 1. Download the data and prepare it for analysis
 
-# Step 2. Make reports and calculate metrics:
+Step 2. Make reports and calculate metrics:
 Analysis of Market ( sales and products)
 
-# Step 3. Write a conclusion: advise marketing experts how much money to invest and where.
+Step 3. Write a conclusion: advise marketing experts how much money to invest and where.
  Analysis of different sources and find the most profitables.
 
 Description of the data
